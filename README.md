@@ -10,11 +10,9 @@ I will overlook your heresy.
 ## Examples
 
 ### Sigmarvis Example 1
-Sigmarvis explains his circumstances
 [![Sigmarvis Example 1](https://img.youtube.com/vi/6IbMqDtexgw/0.jpg)](https://www.youtube.com/watch?v=6IbMqDtexgw)
 
-### Sigmarvis Example 2
-Spoilers for Stormlight archive book 2
+### Sigmarvis Example 2 (Stormlight 2 spoilers)
 [![Sigmarvis Example 2](https://img.youtube.com/vi/qToeCgOVRqc/0.jpg)](https://www.youtube.com/watch?v=qToeCgOVRqc)
 
 
