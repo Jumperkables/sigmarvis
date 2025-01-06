@@ -9,9 +9,14 @@ I will overlook your heresy.
 
 ## Examples
 
+### Sigmarvis Example 1
+Sigmarvis explains his circumstances
 [![Sigmarvis Example 1](https://img.youtube.com/vi/6IbMqDtexgw/0.jpg)](https://www.youtube.com/watch?v=6IbMqDtexgw)
 
-- Spoilers for Stormlight Archive book 2 [Example 2](ex2.mp4)
+### Sigmarvis Example 2
+Spoilers for Stormlight archive book 2
+[![Sigmarvis Example 2](https://img.youtube.com/vi/qToeCgOVRqc /0.jpg)](https://www.youtube.com/watch?v=qToeCgOVRqc)
+
 
 ## Installation:
 1. Gather the data
