@@ -18,10 +18,10 @@ gpt_cond_latent, speaker_embedding = model.get_conditioning_latents(
 
 print("Inference...")
 out = model.inference(
-    "This jumpercables fellow has trained me to interface with the large language model Llama three for a home assistant bundle, and lets me judge the heretics for Sigmar in my own time. Lucky me.",
+    "Honour is dead bright lord Dalinar, but i'll see what i can scooby doo. If this goes poorly for me, take care of Kruber, the dwarf, the elf, and the witch.",
     "en",
     gpt_cond_latent,
     speaker_embedding,
     temperature=0.7, # Add custom parameters here
 )
-torchaudio.save("ex1.wav", torch.tensor(out["wav"]).unsqueeze(0), 24000)
+torchaudio.save("ex3.wav", torch.tensor(out["wav"]).unsqueeze(0), 24000)
