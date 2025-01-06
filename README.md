@@ -9,7 +9,7 @@ I will overlook your heresy.
 
 ## Examples
 - [![Example 1](ex1.mp4)][ex1.mp4]
-- Spoilers for Stormlight Archive book 2 [Example 2](ex2.mp4)
+- Spoilers for Stormlight Archive book 2 [Example 2](ex2.mp3)
 
 ## Installation:
 1. Gather the data
