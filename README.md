@@ -8,6 +8,8 @@ I will overlook your heresy.
 - To use coqui-ai/TTS => 3.9 =< python < 3.12
 
 ## Examples
+- [Example 1](ex1.mp4)
+- Spoilers for Stormlight Archive book 2 [Example 2](ex2.mp4)
 
 ## Installation:
 1. Gather the data
