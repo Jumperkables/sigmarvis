@@ -15,7 +15,7 @@ Sigmarvis explains his circumstances
 
 ### Sigmarvis Example 2
 Spoilers for Stormlight archive book 2
-[![Sigmarvis Example 2](https://img.youtube.com/vi/qToeCgOVRqc /0.jpg)](https://www.youtube.com/watch?v=qToeCgOVRqc)
+[![Sigmarvis Example 2](https://img.youtube.com/vi/qToeCgOVRqc/0.jpg)](https://www.youtube.com/watch?v=qToeCgOVRqc)
 
 
 ## Installation:
