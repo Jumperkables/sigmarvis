@@ -2,7 +2,7 @@
 Voice assistant that I finetuned with Victor Saltzpyre's voice to run in the background and pick up requests for information.
 
 ## Why Victor Saltzpyre?
-I will overlook your heresy if you study [the sacred texts.](https://www.youtube.com/watch?v=KRLs4xH48Wg)
+I will overlook your heresy.
 
 ## Requirements:
 - To use coqui-ai/TTS => 3.9 =< python < 3.12
