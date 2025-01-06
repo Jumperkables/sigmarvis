@@ -8,12 +8,6 @@ I will overlook your heresy.
 - To use coqui-ai/TTS => 3.9 =< python < 3.12
 
 ## Examples
-<audio controls>
-  <source src="ex1.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-- [Example 1](ex1.wav)
-- Spoilers for Stormlight Archive book 2 [Example 2](ex2.wav)
 
 ## Installation:
 1. Gather the data
