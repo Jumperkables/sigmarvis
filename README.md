@@ -7,6 +7,10 @@ I will overlook your heresy.
 ## Requirements:
 - To use coqui-ai/TTS => 3.9 =< python < 3.12
 
+## Examples
+- [Example 1](ex1.wav)
+- Spoilers for Stormlight Archive book 2 [Example 2](ex2.wav)
+
 ## Installation:
 1. Gather the data
     * This [Reddit post](https://www.reddit.com/r/Vermintide/comments/pmrw0g/updated_audio_files_rip_voice_lines_sound_effects/) claims to have been given permission to scrape the data by a FatShark employee.
